@@ -1,4 +1,4 @@
-# gitの練習
+# git の練習
 
 commit3
 commit4
